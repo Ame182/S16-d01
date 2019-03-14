@@ -42,7 +42,7 @@
 
 
 
-## Tiempo de desarrollo : 120hrs.
+## Tiempo de desarrollo : 72hrs.
 
 0,5 UF la hora
 
